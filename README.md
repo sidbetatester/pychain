@@ -1,4 +1,4 @@
-[Technologies](#Technologies) | [Installation](#installation) | [Usage](#usage) | [Conclusion](#conclusion) | [Contributors](#contributors) | [License](#license)
+[Technologies](#Technologies) | [Installation](#installation-guide) | [Usage](#usage) | [Screenshots](#screenshots) | [Contributors](#contributors) | [License](#license)
 
 # pychain
 This is a blockchain-based leger system, using Streamlit for a user-friendly web interface. The leger allows the users to record financial transactions between sender and receiver on the blockchain ledger and can verify the integrity of the data using a Block inspector. We use Python libraries/modules along with Streamlit for achieving results shown below. 
@@ -70,10 +70,10 @@ Note: to close Streamlit from gitbash, click ctrl + 'c'
 
 ## Screenshots
 
-![pychain app with transactions recorded on the Blockchain ledger](Images/image1.jpg)
-![pychain app - transactions validation with Block Inspector](Images/image2.jpg)
-![pychain app - transactions validation with Block Inspector](Images/image3.jpg)
-![pychain app w- Winning Hash and Blockchain Validation Output](Images/image4.jpg)
+![pychain app with transactions recorded on the Blockchain ledger](Images/image1.png)
+![pychain app - transactions validation with Block Inspector](Images/image2.png)
+![pychain app - transactions validation with Block Inspector](Images/image3.png)
+![pychain app w- Winning Hash and Blockchain Validation Output](Images/image4.png)
 
 
 ## Contributors
