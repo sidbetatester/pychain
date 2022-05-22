@@ -70,10 +70,13 @@ Note: to close Streamlit from gitbash, click ctrl + 'c'
 
 ## Screenshots
 
-![pychain app with transactions recorded on the Blockchain ledger](Images/image1.png)
-![pychain app - transactions validation with Block Inspector](Images/image2.png)
-![pychain app - transactions validation with Block Inspector](Images/image3.png)
-![pychain app w- Winning Hash and Blockchain Validation Output](Images/image4.png)
+![pychain app with transactions recorded on the Blockchain ledger](Images/image1.jpg)
+
+![pychain app - transactions validation with Block Inspector](Images/image2.jpg)
+
+![pychain app - transactions validation with Block Inspector](Images/image3.jpg)
+
+![pychain app - Winning Hash and Blockchain Validation Output](Images/image4.jpg)
 
 
 ## Contributors
